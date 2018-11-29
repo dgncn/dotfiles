@@ -1,0 +1,20 @@
+URxvt*scrollColor: #777777
+URxvt*scrollstyle: plain
+URxvt*skipScroll: true
+URxvt*scrollBar: false
+URxvt*fading: 30
+URxvt*utmpInhibit: false
+URxvt*urgentOnBell: false
+URxvt*visualBell: true
+URxvt*mapAlert: true
+URxvt*mouseWheelScrollPage: false
+URxvt*background: Black
+URxvt*foreground: White
+URxvt*colorUL: yellow
+URxvt*underlineColor: yellow
+URxvt*saveLines: 20000
+URxvt*buffered: true
+URxvt*hold: false
+URxvt*font: xft: Inconsolata:size=11
+URxvt*transparent: true
+URxvt*shading: 30
